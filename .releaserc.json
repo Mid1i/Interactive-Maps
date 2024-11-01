@@ -1,11 +1,5 @@
 {
-  "branches": [
-    "main",
-    {
-      "name": "dev",
-      "prerelease": true
-    }
-  ],
+  "branches": ["main"],
   "repositoryUrl": "https://github.com/Mid1i/Vue-Demo.git",
   "plugins": [
     "@semantic-release/commit-analyzer",
