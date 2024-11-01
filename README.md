@@ -4,10 +4,7 @@
 
 ### Технологии и API
 - **Vue.js**
-- **OpenStreetMap**
-- **Mapbox GL JS**
-- **Overpass API**
-- **OpenRouteService**
+- **API Яндекс карт**
 - **Geolocation API**
 - **TypeScript**
 - **Vue Router**
