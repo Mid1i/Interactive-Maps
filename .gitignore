@@ -13,6 +13,8 @@ dist
 dist-ssr
 *.local
 
+.env
+
 # Директории и файлы редактора
 .vscode/*
 .idea
