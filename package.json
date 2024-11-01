@@ -1,0 +1,29 @@
+{
+  "name": "vue-demo",
+  "private": true,
+  "version": "0.0.0-development",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
+    "semantic-release": "semantic-release"
+  },
+  "dependencies": {
+    "sass": "^1.80.5",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "semantic-release": "^24.2.0",
+    "semantic-release-cli": "^5.4.6",
+    "typescript": "~5.6.2",
+    "vite": "^5.4.10",
+    "vue-tsc": "^2.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mid1i/Vue-Demo.git"
+  }
+}

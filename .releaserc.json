@@ -1,0 +1,10 @@
+{
+  "branches": ["main"],
+  "repositoryUrl": "https://github.com/Mid1i/Vue-Demo.git",
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/github"
+  ]
+}
